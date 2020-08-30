@@ -8,9 +8,7 @@ As a CEO of a video game studio I want a new workspace in California, USA since 
 
 ## Requirements
 • Close to public transportation such as bus or subway.
-
 • That the location is in California.
-
 • Close to other video game studios, in the city where there are more studios.
 
 ## DoD
@@ -32,7 +30,8 @@ To provide an ideal area in California where offices are available, close to pub
 
 ## Maps Description
 • The blue pins are the occupied offices.
-
 • The red pins are the available offices, and you can see the detail of the office if you click the pin.
-
 • The heatmaps show the density of the zones of occupied offices.
+
+## Note
+The companies json can be downloaded from the link: https://drive.google.com/file/d/1z7UdvlV9-RNouduz6mGlbez89NwFpyco/view?usp=sharing
